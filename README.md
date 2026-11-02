@@ -1,4 +1,4 @@
-# Lumen: a Next.js SaaS starter
+# Lumen SaaS: a Next.js SaaS starter
 
 A subscription SaaS app built with the Next.js App Router, TypeScript and Stripe. It covers the parts every SaaS needs and most tutorials skip: sign-in, plan-gated features, Stripe Checkout, the customer portal, signed webhooks, SEO, accessibility and tests.
 

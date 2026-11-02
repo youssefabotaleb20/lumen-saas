@@ -8,6 +8,6 @@ export const site = {
     (process.env.VERCEL_PROJECT_PRODUCTION_URL
       ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
       : "http://localhost:3000"),
-  repo: "https://github.com/youssefabotaleb20/saas-starter",
+  repo: "https://github.com/youssefabotaleb20/lumen-saas",
   author: { name: "Youssef Abotaleb", url: "https://youssefabotaleb20.github.io/Portfolio/" },
 } as const;
