@@ -4,7 +4,7 @@ A subscription SaaS app built with the Next.js App Router, TypeScript and Stripe
 
 The demo product, **Lumen**, is a made-up uptime monitoring service. Sign-in and billing work for real. Monitor data is sample data, and Stripe runs in **test mode**, so no card is ever charged.
 
-**Live demo:** _coming soon_ · Built by [Youssef Abotaleb](https://youssefabotaleb20.github.io/Portfolio/)
+**Live demo:** [lumen-saas-kohl.vercel.app](https://lumen-saas-kohl.vercel.app) · Built by [Youssef Abotaleb](https://youssefabotaleb20.github.io/Portfolio/)
 
 ![Lumen landing page](docs/home.png)
 
